@@ -2,14 +2,14 @@
 
 # Created by: Kaitlyn Ip
 # Created on: Oct 2022
-# This program calculates the area of an equilateral triangle
-#    with base and height inputted from the user
+# This program calculates the area and perimeter of an equilateral triangle
+#    with side inputted from the user
 
 import math
 
 
 def main():
-    # this function calculates the area of an equilateral triangle
+    # this function calculates the area and perimeter of an equilateral triangle
 
     # input
     side_of_triangle = int(input("Enter the side of the equilateral triangle (mm): "))
