@@ -19,7 +19,7 @@ def main():
 
     # output
     print("")
-    print("Area is {0} mm².".format(area_of_triangle))
+    print("Area is {0} mm².".format(round(area_of_triangle, 2)))
     print("Perimeter is {0} mm.".format(perimeter_of_triangle))
 
     print("\nDone.")
